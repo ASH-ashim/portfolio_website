@@ -16,7 +16,7 @@ const projects = [
     "Spylt clone with smooth animations using GSAP",
     image: "./projects/spylt.png",
     tags: ["React", "Tailwind CSS", "GSAP"],
-    demoUrl: "https://ash-social.vercel.app",
+    demoUrl: "https://ash-gsap.vercel.app",
     githubUrl: "#",
 },
 

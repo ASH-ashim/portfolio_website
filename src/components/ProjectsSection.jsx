@@ -28,7 +28,7 @@ const projects = [
     "Full stack online chatting application",
     image: "/projects/project4.png",
     tags: ["ReactJS", "MongoDB", "Node.js"],
-    demoUrl: "",
+    demoUrl: "https://ash-social.vercel.app",
     githubUrl: "#",
 },
 

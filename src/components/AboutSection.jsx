@@ -5,7 +5,7 @@ import {
   MonitorSmartphone,
 } from "lucide-react";
 
-export default function AboutSection() {
+ const AboutSection() {
   return (
     <section id="about" className="py-24 px-4 relative overflow-hidden">
       {/* Animated background gradient */}
@@ -123,3 +123,5 @@ export default function AboutSection() {
     </section>
   );
 }
+
+export default AboutSection;
